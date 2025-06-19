@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(182,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(182,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(189,72): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(189,53): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Reversi02.vcxproj -> C:\Users\HN\source\repos\Reversi02\Debug\Reversi02.exe

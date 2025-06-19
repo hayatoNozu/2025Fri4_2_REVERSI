@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(182,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(182,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(189,72): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\HN\source\repos\Reversi02\Reversi02\main.cpp(189,53): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Previous IPDB not found, fall back to full compilation.
+  コード生成しています。
+  All 160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Reversi02.vcxproj -> C:\Users\HN\source\repos\Reversi02\Release\Reversi02.exe
